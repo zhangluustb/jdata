@@ -28,5 +28,5 @@
 
 3. useless features
 	holidays
-	other keys such as: cluster x item, store x family...
+	other keys such as: cluster x item, store x family
 
